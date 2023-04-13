@@ -79,8 +79,8 @@ p {
     transform: translate(-50%, -50%);
 }
 .float-right {
-    float: left;
-    width: 15%;
+    margin: auto;
+    width: 35%;
 }
 
 main {
