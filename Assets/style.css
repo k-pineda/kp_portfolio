@@ -9,7 +9,7 @@ body {
     word-spacing: 1.4px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #800000; 
-    background-color: rgb(240, 244, 248);
+    background-color: rgb(244, 239, 236);
     height: 100vh;
 }
 .header,
@@ -88,7 +88,7 @@ p {
 }
 .portfolio_img {
     margin: 10px auto;
-    width: 25%;
+    width: 48%;
     border-radius: 5px;
 }
 
