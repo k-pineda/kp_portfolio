@@ -96,7 +96,7 @@ main {
     display: flex;
     flex-direction: column;
 }
-section {
+article {
     display: flex;
     flex-direction: row;
 }
