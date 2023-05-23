@@ -109,7 +109,7 @@ button, input {
 }
 
 button, html input[type=button], input[type=reset], input[type=submit] {
-  -webkit-appearance: button;
+  /* -webkit-appearance: button; */
   cursor: pointer;
 }
 
@@ -124,7 +124,7 @@ input[type=checkbox], input[type=radio] {
 }
 
 input[type=search] {
-  -webkit-appearance: textfield;
+  /* -webkit-appearance: textfield; */
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
 }
