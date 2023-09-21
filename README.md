@@ -8,7 +8,7 @@ I'm Karen Pineda, a passionate Full Stack Web Developer with a strong background
 
 ## Contact
 
-- **LinkedIn:** [Link to your LinkedIn profile](https://www.linkedin.com/in/karen-pineda-6604511a9//)
+- **LinkedIn:** [Link to my LinkedIn profile](https://www.linkedin.com/in/karen-pineda-6604511a9//)
 - **Email:** karenp9310@gmail.com
 - **Website:** [Link to my portfolio](https://k-pineda.github.io/kp_portfolio/)
 
