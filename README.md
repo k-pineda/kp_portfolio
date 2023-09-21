@@ -1,16 +1,16 @@
-# KP Portfolio
+# Karen Pineda's Portfolio
 
-## Description
+Welcome to my portfolio repository! This is where I showcase my work as a Full Stack Web Developer, highlighting my skills, projects, and accomplishments. Feel free to explore and get in touch if you'd like to collaborate or learn more about my work.
 
-This webpage was created to showcase professional work and provide an introduction to myself. This webpage was built to give future employers an opportunity get to know the projects I have worked on, what my interests are and how to contact me. The webpage also includes a link to my resume. During the making of this project, I learned the importance of UI design and the many interesting ways to elevate the front end of a webpage.
+## About Me
 
+I'm Karen Pineda, a passionate Full Stack Web Developer with a strong background in both front-end and back-end technologies. I recently completed [mention your education or training, e.g., the University of Miami Full Stack Flex Bootcamp], and I'm excited to contribute to innovative web projects and build meaningful digital experiences.
 
-## Usage
+## Contact
 
-To use this webpage, at the top right hand side are navigational links to three different sections. When clicking on a topic, the browser will move to the section that contains that topics of information. 
+- **LinkedIn:** [Link to your LinkedIn profile](https://www.linkedin.com/in/karen-pineda-6604511a9//)
+- **Email:** karenp9310@gmail.com
+- **Website:** [Link to your personal website/portfolio](https://k-pineda.github.io/kp_portfolio/)
 
-[Portfolio - Karen Pineda](https://k-pineda.github.io/Week2-Challenge-Repo/)
+Feel free to explore my projects and get in touch if you have any questions, ideas, or opportunities for collaboration. I'm always open to new challenges and exciting web development projects!
 
-## Credits
-
-[Challenge 2 Repo](https://github.com/k-pineda/Week2-Challenge-Repo.git)
