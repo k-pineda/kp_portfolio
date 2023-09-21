@@ -9,8 +9,6 @@ This webpage was created to showcase professional work and provide an introducti
 
 To use this webpage, at the top right hand side are navigational links to three different sections. When clicking on a topic, the browser will move to the section that contains that topics of information. 
 
-![Preview of Portfolio](./Assets/imgs/Screenshot%202023-04-11%20165647.png)
-
 [Portfolio - Karen Pineda](https://k-pineda.github.io/Week2-Challenge-Repo/)
 
 ## Credits
